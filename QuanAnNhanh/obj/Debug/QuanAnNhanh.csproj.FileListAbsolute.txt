@@ -1,0 +1,11 @@
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.AssemblyReference.cache
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.Properties.Resources.resources
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.GenerateResource.cache
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.exe.config
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.exe
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.pdb
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.exe
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.pdb
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.exe.config
+C:\Users\THIS PC\source\repos\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.Form1.resources
